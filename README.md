@@ -7,3 +7,5 @@ This repository documents theme customization, color palette, and content strate
 - Policy pages (Privacy, Shipping, Returns, etc.)  
 - Footer and menu redesign for improved navigation  
 - Responsive layout and mobile optimization  
+Website (https://stephen-o-48-teststore.myshopify.com/)
+This store is password‑protected. Please contact me directly for access credentials.
